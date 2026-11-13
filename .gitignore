@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.cache/
+ticket-classifier/
+outputs/
+*.zip
+.venv/

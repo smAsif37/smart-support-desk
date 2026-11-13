@@ -1,0 +1,7 @@
+.git
+.github
+.env
+.cache
+__pycache__
+ticket-classifier
+report

@@ -1,0 +1,208 @@
+[
+ {
+  "q": "How many days do I have to return an item?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "30"
+  ]
+ },
+ {
+  "q": "How long does a refund take to reach my card?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "5",
+   "7"
+  ]
+ },
+ {
+  "q": "What happens if my item arrives damaged?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "48"
+  ]
+ },
+ {
+  "q": "Can I return innerwear?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "innerwear"
+  ]
+ },
+ {
+  "q": "How are Cash on Delivery refunds paid?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "bank"
+  ]
+ },
+ {
+  "q": "What is the return window for electronics?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "10"
+  ]
+ },
+ {
+  "q": "Is there a restocking fee on returns?",
+  "source": "refund_returns_policy.pdf",
+  "keywords": [
+   "restocking"
+  ]
+ },
+ {
+  "q": "How long does standard delivery take in Chennai?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "3",
+   "5"
+  ]
+ },
+ {
+  "q": "How much is express delivery?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "149"
+  ]
+ },
+ {
+  "q": "Is shipping free?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "999"
+  ]
+ },
+ {
+  "q": "Can I change my delivery address after the order has shipped?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "dispatch"
+  ]
+ },
+ {
+  "q": "What if my parcel shows delivered but I did not receive it?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "3 days"
+  ]
+ },
+ {
+  "q": "How many delivery attempts does the courier make?",
+  "source": "shipping_delivery_policy.pdf",
+  "keywords": [
+   "3"
+  ]
+ },
+ {
+  "q": "What is the fee for cancelling after dispatch?",
+  "source": "order_cancellation_policy.pdf",
+  "keywords": [
+   "99"
+  ]
+ },
+ {
+  "q": "Can I cancel my order for free before it ships?",
+  "source": "order_cancellation_policy.pdf",
+  "keywords": [
+   "free"
+  ]
+ },
+ {
+  "q": "How long does it take to unsubscribe from the newsletter?",
+  "source": "order_cancellation_policy.pdf",
+  "keywords": [
+   "2"
+  ]
+ },
+ {
+  "q": "Can I cancel a personalised product?",
+  "source": "order_cancellation_policy.pdf",
+  "keywords": [
+   "2 hours"
+  ]
+ },
+ {
+  "q": "Which payment methods do you accept?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "upi"
+  ]
+ },
+ {
+  "q": "What is the Cash on Delivery limit?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "5000"
+  ]
+ },
+ {
+  "q": "I was charged twice, what should I do?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "48"
+  ]
+ },
+ {
+  "q": "Money was deducted but my order failed. When will I get it back?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "3",
+   "5"
+  ]
+ },
+ {
+  "q": "How long are invoices available for download?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "24"
+  ]
+ },
+ {
+  "q": "Is EMI available and from what order value?",
+  "source": "payment_billing_invoice_policy.pdf",
+  "keywords": [
+   "3000"
+  ]
+ },
+ {
+  "q": "How long is the password reset link valid?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "30"
+  ]
+ },
+ {
+  "q": "How do I delete my account?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "privacy"
+  ]
+ },
+ {
+  "q": "What is the first response time for high priority tickets?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "4"
+  ]
+ },
+ {
+  "q": "How do I reach a human agent?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "agent"
+  ]
+ },
+ {
+  "q": "How long does the grievance officer take to resolve a complaint?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "30"
+  ]
+ },
+ {
+  "q": "When does a complaint move to Level 2?",
+  "source": "account_complaints_escalation_policy.pdf",
+  "keywords": [
+   "3 business days"
+  ]
+ }
+]
