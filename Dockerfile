@@ -4,6 +4,7 @@ FROM python:3.11-slim
 RUN useradd -m -u 1000 user
 ENV HOME=/home/user PATH=/home/user/.local/bin:$PATH HF_HOME=/home/user/.cache/huggingface \
     PYTHONUNBUFFERED=1 TOKENIZERS_PARALLELISM=false
+ENV INDEX_DIR=/tmp/index
 WORKDIR /home/user/app
 
 COPY --chown=user requirements.txt .
